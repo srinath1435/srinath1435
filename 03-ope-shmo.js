@@ -1,0 +1,12 @@
+let a=30;
+let b=20;
+let add=10;
+add=add+(a+b);
+add += (a+b);
+console.log(add);
+let ab=20;
+let ba=30;
+let abc=10;
+abc=abc-(ab-ba);
+abc-=(ab-ba);
+console.log(abc);

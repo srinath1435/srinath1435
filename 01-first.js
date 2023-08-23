@@ -1,0 +1,15 @@
+let a=20;
+let b=10;
+let sum=a+b;
+console.log('the sum of a, b is:' +sum);
+let emloyee = 'jhon';
+console.log(typeof emloyee);
+let emloyeeAge =50;
+console.log(typeof emloyeeAge);
+let isManger =true;
+console.log(typeof isManger);
+let Name;
+console.log(Name);
+Name='shree';
+let test=null;
+console.log(typeof test);
